@@ -1,0 +1,6 @@
+/* Additional custom styles for the component */
+
+.slds-p-horizontal_x-small {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
